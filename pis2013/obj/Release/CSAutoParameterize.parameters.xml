@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=(LocalDb)\v11.0;Initial Catalog=aspnet-PIS2013-20131105215918;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnet-PIS2013-20131105215918.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\envy\ 14\ spectre\\documents\\visual\ studio\ 2012\\Projects\\PIS2013\\PIS2013\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
